@@ -1,0 +1,797 @@
+
+
+@media screen and (max-width: 1440px) {
+	.bookmark {
+		background-size: 500px 80px;
+	}
+
+	.bookmark2 {
+		background-size: 550px 80px;
+	}
+
+	.bookmark3 {
+		background-size: 390px 80px;
+	}
+}
+
+
+@media screen and (max-width: 1366px) {
+	
+
+	
+
+	
+}
+
+@media screen and (max-width: 1350px) {
+	
+}
+
+@media screen and (max-width: 1320px) {
+	
+}
+
+@media screen and (max-width: 1290px) {
+	
+}
+
+@media screen and (max-width: 1230px) {
+	
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	
+	.bookmark {
+	    background-size: 400px 80px;
+	}
+
+	.bookmark2 {
+	    background-size: 450px 80px;
+	}
+
+	.bookmark3 {
+		background-size: 260px 80px;
+	}
+
+}
+
+@media screen and (max-width: 1190px) {
+	
+}
+
+@media screen and (max-width: 1170px) {
+	
+}
+
+@media screen and (max-width: 1110px) {
+	.work-absolute {
+		display: none;
+	}
+
+	.work-absolute2 {
+		display: none;
+	}
+
+
+  
+}
+
+@media screen and (max-width: 1050px) {
+	
+	
+
+  
+}
+
+
+@media screen and (max-width: 1024px) {
+	
+	.marketing {
+		background: none;
+	}  
+
+
+}
+
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.figure {
+		background-size: 200px;
+	}
+
+	.work:before {
+		background-size: 500px;
+	}
+
+	.bookmark {
+	    background-size: 300px 80px;
+	}
+
+	.bookmark2 {
+	    background-size: 350px 80px;
+	}
+  
+}
+
+@media screen and (max-width: 950px) {
+	ul.tabs li {
+		width: 20%;
+		font-size: 10px;
+		line-height: 13px;
+		padding: 20px 0;
+	}
+
+	.marketing-link {
+		width: 16.666666%;
+	}
+
+	.marketing-link a {
+		width: 100%;
+		font-size: 10px;
+		line-height: 13px;
+		padding: 20px 0;
+	}
+
+	ul.tabs {
+		width: 83.33333%;
+	}
+
+	.work-border-link {
+		width: 80%;
+	}
+
+	.work-border-button {
+		width: 20%;
+	}
+
+	.work-border-link a {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 910px) {
+	
+	.work-border2 {
+		padding: 150px 0 164px 0;
+	}
+
+	.work2-block {
+	    padding: 0 20px 0 0;
+	    width: 60%;
+	}
+	
+	
+}
+
+@media screen and (max-width: 850px) {
+	.work-border-link {
+		width: 75%;
+	}
+
+	.work-border-button {
+		text-align: right;
+		width: 25%;
+	}
+
+	.work-border2 {
+		padding: 145px 0 159px 0;
+	}
+
+	.approximate-border {
+		width: 600px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	
+	.marketing-tabs-title {
+	    padding: 0 0 0 0;
+	    font-family: 'Inter-Light';
+	    font-size: 11px;
+	    line-height: 14px;
+	    color: #161616;
+	}
+
+	.marketing-tabs-price-text {
+	    font-family: 'Inter-Medium';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+	}
+
+	.marketing-tabs-price-absolute {
+	    position: absolute;
+	    top: -10px;
+	    left: 25%;
+	}
+
+	.marketing-tabs-example {
+	    width: 14%;
+	    font-family: 'Inter-Medium';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+	}
+
+	.marketing-tabs-title2 {
+	    padding: 0 0 0 0;
+	    font-family: 'Inter-Light';
+	    font-size: 12px;
+	    line-height: 15px;
+	    color: #161616;
+	}
+
+	.marketing-tabs-price-text2 {
+	    font-family: 'Inter-Bold';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+	}
+
+	.marketing-tabs-example a {
+	    font-family: 'Inter-Light';
+	    text-decoration: none;
+	    border-bottom: 1px dashed #000000;
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #010F42;
+	}
+
+	.marketing-tabs-example2 a {
+	    font-family: 'Inter-Light';
+	    text-decoration: none;
+	    border-bottom: 1px dashed #000000;
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #010F42;
+	}
+
+	.marketing-tabs-request {
+	    width: 13%;
+	    font-family: 'Inter-Light';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #161616;
+	}
+
+	.approximate-border {
+		width: 550px;
+		padding: 35px 30px 25px 30px;
+	}
+	
+
+}
+
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	
+
+	.bookmark-title {
+		font-size: 16px;
+		line-height: 19px;
+		width: 177px;
+	}
+
+	.bookmark {
+		background-size: 250px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.bookmark-title2 {
+		font-size: 16px;
+		line-height: 19px;
+		width: 222px;
+	}
+
+	.bookmark2 {
+		background-size: 300px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.bookmark-title3 {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.bookmark3 {
+		background-size: 120px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.work-title {
+		font-size: 14px;
+		line-height: 17px;
+	}
+
+	.work-suptitle {
+		font-size: 18px;
+		line-height: 22px;
+		padding: 10px 0 0 15px;
+	}
+
+	.work-block {
+		width: 50%;
+	}
+
+	.work-border2 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 400px;
+		padding: 0;
+	}
+
+	ul.tabs li {
+		font-size: 8px;
+		line-height: 11px;
+	}
+
+	.marketing-link a {
+		font-size: 8px;
+		line-height: 11px;
+	}
+
+	.marketing-title {
+		padding: 25px 0 0 0;
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	.approximate-title {
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	.approximate-suptitle {
+		font-size: 21px;
+		line-height: 25px;
+	}
+
+	.footer-li {
+	    padding: 0 10px;
+	}
+
+	.work2-section-price {
+		font-size: 21px;
+		line-height: 25px;
+	}
+	
+}
+
+@media screen and (max-width: 700px) {
+	
+	.approximate-img {
+		display: none;
+	}
+
+	.approximate-block {
+		padding: 25px 0 0 0;
+	}
+
+	.approximate-border {
+		width: 100%;
+	}
+
+	.work-border2 {
+		height: 377px;
+	}
+
+	.work2-wrap {
+		flex-wrap: wrap;
+	}
+
+	.work2-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.work2-block2 {
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.work {
+		background-size: cover !important;
+		background: #F8EFDE url(../images/work-bg.png) 47% 0;
+	}
+
+	.work2-section-title br {
+		display: none;
+	}
+
+	.work2-section-title {
+		width: 100%;
+	}
+
+	.work2-section-price {
+		text-align: left;
+		width: 100%;
+		padding: 5px 0 0 0;
+	}
+
+	.work2-section-wrap {
+		flex-wrap: wrap;
+	}
+
+	.work2-block-wrap {
+		display: none;
+	}
+
+	.work2-block-wrap2 {
+	  padding: 20px 0 0 0;
+	  display: flex;
+	  align-items: center;
+	}
+	
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	
+	.mobila-none {
+		display: none;
+	}
+
+	.marketing-tabs-block {
+		width: 100%;
+	}
+
+	.marketing-tabs-inner {
+		flex-wrap: wrap;
+	}
+
+	.marketing-tabs-price {
+		width: 100%;
+		padding: 15px 0 20px 0;
+	}
+
+	.marketing-tabs-example {
+		width: 50%;
+	}
+
+	.marketing-tabs-example2 {
+		width: 50%;
+	}
+
+	.marketing-tabs-request {
+		font-size: 16px;
+		line-height: 19px;
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.footer-wrap {
+		flex-wrap: wrap;
+	}
+
+	.footer-block {
+		text-align: center;
+		width: 100%;
+	}
+
+	.footer-ul {
+		padding: 15px 0;
+		justify-content: center;
+	}
+
+	.work-border2 {
+		height: 358px;
+	}
+
+	.work:before {
+	    background-size: 350px;
+	}
+
+	.work:after {
+	    background-size: 150px;
+	}
+
+	.marketing-tabs-title {
+		font-size: 13px;
+		line-height: 16px;
+	}
+
+	.marketing-tabs-title2 {
+		font-size: 14px;
+		line-height: 17px;
+	}
+
+	.marketing-tabs-wrap {
+		border: none;
+	}
+
+	.marketing-tabs-price-text2 {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.marketing-tabs-example a {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.marketing-tabs-example2 a {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.approximate-bg {
+		height: 80px;
+	}
+	
+
+}
+
+@media screen and (max-width: 590px) {
+  	.work-border2 {
+  		height: 341px;
+  	}
+
+  	.marketing-tabs {
+  		flex-wrap: wrap;
+  	}
+
+  	ul.tabs {
+  		flex-wrap: wrap;
+  		width: 100%;
+  	}
+
+  	ul.tabs li {
+  		padding: 17px 0;
+  		width: 100%;
+  		font-size: 14px;
+		line-height: 17px;
+  	}
+
+  	.border-tabs {
+  		border-radius: 10px 10px 0 0;
+  	}
+
+  	.marketing-link {
+  		width: 100%;
+  	}
+
+  	.marketing-link a {
+  		padding: 17px 0;
+  		font-size: 14px;
+  		line-height: 17px;
+  		border-radius: 0 0 10px 10px;
+  	}
+}
+
+
+@media screen and (max-width: 540px) {
+ 	.work-border2 {
+ 		height: 325px;
+ 	}
+
+ 	.approximate-border {
+ 		padding: 35px 25px 25px 25px;
+ 	}
+}
+
+@media screen and (max-width: 500px) {
+  	.approximate-border-links {
+  		flex-wrap: wrap;
+  	}
+
+  	.approximate-border-link {
+  		width: 100%;
+  	}
+
+  	.approximate-border-link a {
+  		padding: 20px 0;
+  		width: 100%;
+  	}
+
+  	.approximate-border-link2 {
+  		padding: 20px 0 0 0;
+  		width: 100%;
+  	}
+
+  	.approximate-border-link2 a {
+  		padding: 20px 0;
+  		width: 100%;
+  	}
+
+  	.work-block {
+  		padding: 40px 15px 0 15px;
+  		width: 100%;
+  	}
+
+  	.work-img img {
+  		width: 100%;
+  	}
+
+  	.work-border2 {
+  		display: none;
+  	}
+
+  	.work-link {
+  		display: flex;
+  		justify-content: center;
+  	}
+
+  	.work-link a {
+  		font-family: 'Inter-Light';
+  		text-decoration: none;
+  		border-bottom: 1px dashed #000000;
+  		font-size: 21px;
+		line-height: 25px;
+		color: #000000;
+  	}
+
+  	.work-arrow {
+  		display: none;
+  	}
+
+  	.work {
+  		background-size: cover;
+  		background: #F8EFDE url(../images/work-bg.png) 47% 0;
+  	}
+
+  	.approximate-border-number {
+  		width: 12%;
+  	}
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	
+}
+
+@media screen and (max-width: 460px) {
+  
+	.work2-block-none {
+		display: none;
+	}
+
+	.work2-block-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.work2-block-inner {
+		justify-content: space-between;
+		display: flex;
+		align-items: center;
+		padding: 20px 0 0 0;
+	}
+ 
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	.figure {
+
+  		    background: url(../images/work-af-mb.png) 95% 0 no-repeat;
+  		    top: 100px;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 366px;
+   
+  	}
+
+  	.work:after {
+  		display: none;
+  	}
+
+  	.work:before {
+	    background-size: 250px;
+	}
+
+	.logo a img {
+		width: 135px;
+	}
+
+	.logo-number a {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.work:after {
+	    top: 100px;
+	    content: '';
+	    position: absolute;
+	    width: 100%;
+	    height: 366px;
+	    background: url(../images/work-af-mb.png) 95% 0 no-repeat;
+	}
+
+	.bookmark {
+	    background-size: 230px 46px;
+	    padding: 13px 0 15px 0;
+	}
+
+	.bookmark2 {
+	    background-size: 280px 46px;
+	    padding: 13px 0 15px 0;
+	}
+
+	.approximate {
+	    position: relative;
+	    padding: 215px 0 0 0;
+	    background: url(../images/approximate-bg.png) 47% 0 no-repeat;
+	}
+
+	.approximate-border-title2 br {
+		display: none;
+	}
+
+	.approximate-border-title2 {
+		text-align: center;
+	}
+
+	.approximate-border-number {
+	    width: 15%;
+	}
+
+	.logo-wrap {
+	    z-index: 1;
+	    position: relative;
+	    display: flex;
+	    align-items: center;
+	    padding: 20px 0 80px 0;
+	}
+
+	.watchothers-sl .slick-slide {
+		margin: 0 !important;
+	}
+
+	.watchothers-img img {
+		width: 100%;
+	}
+
+	.watchothers {
+		padding: 60px 0;
+	}
+
+  	
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+	.approximate-border-number {
+	    width: 19%;
+	}
+
+	.work2-section2-img {
+	    width: 30%;
+	}
+
+	.mb-absolute {
+	    top: 18px;
+	    left: 15%;
+	    position: absolute;
+	}		
+	
+	
+}
+
+@media screen and (max-width: 363px) {
+	
+
+	.marketing-tabs-block {
+		position: relative;
+	}
+
+	.work2-section-img {
+	    width: 20%;
+	}
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
